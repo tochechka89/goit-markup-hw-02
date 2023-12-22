@@ -27,6 +27,7 @@ header {
 }
 
 .header-logo span {
+  font-family: 'Raleway', sans-serif;
   color: #2e2f42;
 }
 
@@ -79,7 +80,6 @@ button {
   background-color: #4d5ae5;
   color: #ffffff;
   font-family: 'Roboto', sans-serif;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5; /* 150% */
