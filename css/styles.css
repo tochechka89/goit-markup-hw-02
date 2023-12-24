@@ -16,9 +16,9 @@ header {
   background-color: #ffffff;
 }
 
-nav .header-logo {
+.header-logo {
   color: #4d5ae5;
-  font-family: 'Ralewey', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17; /* 116.667% */
